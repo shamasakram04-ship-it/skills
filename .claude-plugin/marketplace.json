@@ -1,0 +1,16 @@
+{
+  "name": "enterprise-skills",
+  "owner": {
+    "name": "shamasakram04-ship-it"
+  },
+  "metadata": {
+    "description": "Enterprise skill-plugins: prismatisk analyse på Opus 5.5, skill-vurdering og domæne-skabeloner."
+  },
+  "plugins": [
+    {
+      "name": "enterprise-prisme",
+      "source": "./enterprise",
+      "description": "Enterprise-udkast: prismatisk analyse med parallelle Opus 5.5-agenter, skill-vurdering og en fabrik til nye auto-skills."
+    }
+  ]
+}

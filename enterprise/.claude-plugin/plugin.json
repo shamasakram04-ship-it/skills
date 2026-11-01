@@ -1,0 +1,9 @@
+{
+  "name": "enterprise-prisme",
+  "version": "0.1.0",
+  "description": "Prismatisk enterprise-analyse: parallelle linse-agenter på Opus 5.5, syntese og red-team, plus skill-vurdering og en skabelon/fabrik til egne domæne-skills.",
+  "author": {
+    "name": "shamasakram04-ship-it"
+  },
+  "keywords": ["enterprise", "analyse", "opus", "subagents", "skills", "dansk"]
+}
