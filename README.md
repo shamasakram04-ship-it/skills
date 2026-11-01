@@ -38,6 +38,10 @@ $skill-installer install https://github.com/openai/skills/tree/main/skills/.expe
 
 After installing a skill, restart Codex to pick up new skills.
 
+## Enterprise-prisme plugin (Claude Code)
+
+[`enterprise/`](enterprise/) indeholder et første udkast til et Claude Code-plugin med prismatisk analyse (parallelle Opus 5.5-agenter → syntese → red-team), skill-vurdering og en fabrik til egne domæne-skills. Installér med `/plugin marketplace add shamasakram04-ship-it/skills`. Se [enterprise/README.md](enterprise/README.md).
+
 ## License
 
 The license of an individual skill can be found directly inside the skill's directory inside the `LICENSE.txt` file.
